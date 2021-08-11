@@ -6162,10 +6162,14 @@ h1 {
 }
 
 .bg-firts-banner {
-  background-image: url("../images/spot-transaccional-colsubsidio.jpg");
-  background-repeat: no-repeat;
+  background-image: url("../images/spot-portal-transaccional.jpg");
+  background-repeat: repeat-x;
+  background-color: #0167b1;
+  background-size: cover;
+  background-position: top center;
   height: 760px;
 }
+
 
 .bg-second-banner {
   background-image: url("../images/banner-portal-transaccional-colsubsidio-paga-tus-productos.jpg");
